@@ -1,0 +1,5 @@
+golang-github-naegelejd-go-acl (0.0~git20160113.f33f861-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #928657)
+
+ -- Mikhail f. Shiryaev <mr.felixoid@gmail.com>  Tue, 07 May 2019 17:58:55 +0200
